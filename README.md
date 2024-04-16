@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Gamified Quiz Website**
+- 🔭 I’m currently working on **Water Surface Mapping Project**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Python, C, C++, MySQL, HTML, CSS, Django**
 
