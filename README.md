@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Water Surface Mapping Project**
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Java, Python, C/C++, MySQL, MongoDB, Bash Scripting, Git, Docker, AWS, HTML, CSS, JavaScript, Django, **
+- 💬 Ask me about **Java, Python, C/C++, MySQL, MongoDB, DSA, Bash Scripting, Git, Docker, AWS, HTML, CSS, JavaScript, Django**
 
 - 📫 How to reach me **abhishek25022004@gmail.com**
 
