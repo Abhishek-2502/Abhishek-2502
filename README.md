@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Water Surface Mapping Project**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **kubernetes**
 
 - 💬 Ask me about **Java, Python, C/C++, MySQL, MongoDB, Bash Scripting, Git, Docker, AWS, HTML, CSS, JavaScript, Django, **
 
