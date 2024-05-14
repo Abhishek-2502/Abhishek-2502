@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Java, Python, C, C++, MySQL, MongoDB, HTML, CSS, JavaScript, Django, Bash Scripting**
+- 💬 Ask me about **Java, Python, C/C++, MySQL, MongoDB, Bash Scripting, Git, Docker, AWS, HTML, CSS, JavaScript, Django, **
 
 - 📫 How to reach me **abhishek25022004@gmail.com**
 
