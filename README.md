@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" src="./Header.png">
+<img align="center" alt="Banner" src="./Header2.png">
 
 <hr>
 <h1 align="center">A Passionate Coder from India🌟</h1>
