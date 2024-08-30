@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center"><img align="center" alt="Banner" src="./Header2.png"></p>
 
-<hr>
-<h1 align="center">A Passionate Coder from India🌟</h1>
+<b><h1 align="center">A Passionate Coder from India🌟</h1></b>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -28,7 +27,7 @@
 <a href="https://www.hackerrank.com/abhishek25022004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhishek25022004" height="30" width="40" /></a>
 </p>
 
-<hr>
+<h1></h1>
 <!-- Most Used Lang-->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-2502&show_icons=true&locale=en&layout=compact" alt="abhishek-2502" />
 
