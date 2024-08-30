@@ -29,7 +29,7 @@
 
 <h1></h1>
 <!-- Most Used Lang-->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-2502&show_icons=true&locale=en&layout=compact" alt="abhishek-2502" width="350"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-2502&show_icons=true&locale=en&layout=compact" alt="abhishek-2502" width="400"/>
 
 <h3 align="left">Programming Languages</h3>
 <!-- Programming Lang-->
