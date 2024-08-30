@@ -42,8 +42,7 @@
 <!-- Most Used Lang-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-2502&show_icons=true&locale=en&layout=compact" alt="abhishek-2502" /></p>
 
-<!-- Stats-->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-2502&show_icons=true&locale=en" alt="abhishek-2502" /></p>
+<!-- Stats--><!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-2502&show_icons=true&locale=en" alt="abhishek-2502" /></p> -->
 
 <!-- Streak-->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-2502&" alt="abhishek-2502" /></p>
