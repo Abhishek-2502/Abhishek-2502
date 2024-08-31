@@ -48,6 +48,6 @@
 
 <!-- Stats--><!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-2502&show_icons=true&locale=en" alt="abhishek-2502" /></p> -->
 <!-- Most Used Lang-->
-<p align="left"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-2502&show_icons=true&locale=en&layout=compact" alt="abhishek-2502" width="380" height="200"/></p>
+<p align="left"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-2502&show_icons=true&locale=en&layout=compact" alt="abhishek-2502" width="300" height="200"/></p>
 <!-- Streak-->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-2502&" alt="abhishek-2502" height="200" /></p>
