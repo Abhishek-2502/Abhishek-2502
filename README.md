@@ -1,9 +1,10 @@
 <!-- Banner -->
 <p align="center"><img align="center" alt="Banner" src="./Header2.png"></p>
 
-<b><h1 align="center">A Passionate Coder from India <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1></b>
+<b><h1 align="center">A Passionate Coder from India <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /></h1></b>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-2502&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-2502" /> </p>
 
@@ -27,7 +28,7 @@
 <a href="https://www.hackerrank.com/abhishek25022004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhishek25022004" height="30" width="40" /></a>
 </p>
 
-<h1></h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="center">Programming Languages</h3>
 <div align="center">
@@ -64,7 +65,8 @@
 <!-- Streak-->
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-2502&" alt="abhishek-2502" height="200"/></p> -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
   <a href="#">
