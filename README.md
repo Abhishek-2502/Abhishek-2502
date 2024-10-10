@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center"><img align="center" alt="Banner" src="./Header2.png"></p>
 
-<b><h1 align="center">A Passionate Coder from India <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+<b><h1 align="center">A Passionate Coder from India <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1></b>
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /></h1></b> -->
 <p align="center"><img src="./animated_line.gif" width="100%" alt="animated line gif"/></p>
 
