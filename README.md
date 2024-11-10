@@ -17,8 +17,6 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Java, Python, C/C++, MySQL, MongoDB, DSA, Android Development, Bash Scripting, Git, Docker, AWS, HTML, CSS, JavaScript, Django**
-
 - 📫 How to reach me **abhishek25022004@gmail.com**
 
 <!-- Social Media -->
