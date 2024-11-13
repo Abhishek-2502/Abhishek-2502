@@ -79,8 +79,8 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Abhishek-2502&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="My Skills">
-    <img src="https://streak-stats.demolab.com/?user=Abhishek-2502&count_private=true&theme=blue-green&title_color=00b3ff" alt="My Skills">
+    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Abhishek-2502&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="My Skills1">
+    <img src="https://streak-stats.demolab.com/?user=Abhishek-2502&count_private=true&theme=blue-green&title_color=00b3ff" alt="My Skills2">
   </a>
 </div>
 <a href=#><img src="contributions.svg"></a>
