@@ -73,14 +73,14 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://bad-apple-github-readme.vercel.app/api?username=Abhishek-2502&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="My Skills">
+    <img src="https://bad-apple-github-readme.vercel.app/api?username=Abhishek-2502&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt=" ">
   </a>
 </div>
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Abhishek-2502&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="My Skills1">
-    <img src="https://streak-stats.demolab.com/?user=Abhishek-2502&count_private=true&theme=blue-green&title_color=00b3ff" alt="My Skills2">
+    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Abhishek-2502&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt=" ">
+    <img src="https://streak-stats.demolab.com/?user=Abhishek-2502&count_private=true&theme=blue-green&title_color=00b3ff" alt=" ">
   </a>
 </div>
 <a href=#><img src="contributions.svg"></a>
