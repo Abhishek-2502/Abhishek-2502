@@ -13,7 +13,7 @@
 
 - 👨‍💻 Portfolio: [https://abhishek-2502.github.io/Portfolio/](https://abhishek-2502.github.io/Portfolio/)
   
-- 🔭 I’m currently working as an Intern at **Alpinedge**
+- 🔭 I’m currently working as an Intern at **SpacECE**
 
 - 🌱 I’m currently learning **Kubernetes**
 
