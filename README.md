@@ -4,6 +4,9 @@
 
 <b><h1 align="center">SOFTWARE ENGINEER</h1></b>
 
+<!-- ANIMATED BYE -->
+<!-- <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> -->
+
 <!-- ANIMATED LINE -->
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /></h1></b> -->
 <p align="center"><img src="./animated_line.gif" width="100%" alt="animated line gif"/></p>
@@ -114,6 +117,8 @@
     <img src="https://streak-stats.demolab.com/?user=Abhishek-2502&count_private=true&theme=blue-green&title_color=00b3ff" alt=" ">
   </a>
 </div>
+
+<!-- CONTRIBUTION SNAKE -->
 <a href=#><img src="contributions.svg"></a>
 
 <!-- BOTTOM FLOWING ANIMATION -->
