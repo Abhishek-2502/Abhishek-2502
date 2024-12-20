@@ -2,7 +2,7 @@
 <p align="center"><img align="center" alt="Banner" src="./Header2.png"></p>
 
 
-<b><h1 align="center">A Passionate Coder<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1></b>
+<b><h1 align="center">Software Engineering<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1></b>
 
 <!-- ANIMATED LINE -->
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /></h1></b> -->
