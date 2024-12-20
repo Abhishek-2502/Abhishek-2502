@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 📫 Reach me at **abhishek25022004@gmail.com**
+- 📫 Reach me at [abhishek25022004@gmail.com](abhishek25022004@gmail.com) **abhishek25022004@gmail.com**
 
 <!-- SOCIAL MEDIA -->
 <h3 align="left">Connect with me:</h3>
