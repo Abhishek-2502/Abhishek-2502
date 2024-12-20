@@ -39,8 +39,8 @@
 <h3 align="left">Experiences:</h3>
 
 - SDE Intern at [BMC Software](https://www.bmc.com/)(Jan 2025 - Present)
-- Android Developer Intern at [SpacECE India Foudation](https://www.spacece.in/) (Dec 2024 - Present)
 - AI Research Intern at [SCAAI](https://www.scaai.edu.in/) (Jun 2024 - Present)
+- Android Developer Intern at [SpacECE India Foudation](https://www.spacece.in/) (Dec 2024 - Present)
 - Android Developer Intern at [Alpinedge Solution](https://www.linkedin.com/company/alpinedge-solution-pvt-ltd/posts/?feedView=all) (Jul 2024 - Dec 2024)
 - Web Developer Intern at [Project Human City](https://www.projecthumancity.com/) (Jun 2024 - Aug 2024)
 - Full Stack Web Developer Intern at [Meta Craftlab](https://craftlab.ai/) (Jun 2024 - Jul 2024)
