@@ -2,7 +2,7 @@
 <p align="center"><img align="center" alt="Banner" src="./Header2.png"></p>
 
 
-<b><h1 align="center">A Passionate Coder from India <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1></b>
+<b><h1 align="center">A Passionate Coder<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1></b>
 
 <!-- ANIMATED LINE -->
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /></h1></b> -->
@@ -17,6 +17,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-2502&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-2502" /> </p>
 
 
+<!-- ABOUT ME -->
+<h3 align="left">About me:</h3>
 
 - 👨‍💻 Portfolio: [https://abhishek-2502.github.io/Portfolio/](https://abhishek-2502.github.io/Portfolio/)
   
@@ -24,7 +26,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 📫 How to reach me **abhishek25022004@gmail.com**
+- 📫 Reach me at **abhishek25022004@gmail.com**
 
 <!-- SOCIAL MEDIA -->
 <h3 align="left">Connect with me:</h3>
@@ -36,6 +38,7 @@
 </p>
 
 
+<!-- EXPERIENCES -->
 <h3 align="left">Experiences:</h3>
 
 - SDE Intern at [BMC Software](https://www.bmc.com/)(Jan 2025 - Present)
