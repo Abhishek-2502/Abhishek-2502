@@ -74,7 +74,10 @@
 <h3 align="center">Android and Web Development</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,html,css,js,react,tailwindcss,express,nodejs,bootstrap,figma,django,flask" alt="My Skills">
+<!--     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,html,css,js,react,tailwindcss,express,nodejs,bootstrap,figma,django,flask" alt="My Skills"> -->
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" alt="My Skills">
+    <img src="https://reactnative.dev/img/header_logo.svg", width=50, height=45, alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,express,nodejs,bootstrap,figma,django,flask" alt="My Skills">
   </a>
 </div>
 
