@@ -87,7 +87,7 @@
 <h3 align="center">Web Development</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,express,nodejs,bootstrap,figma,django,flask" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,express,nodejs,bootstrap,figma,django,flask,fastapi" alt="My Skills">
   </a>
 </div>
 
