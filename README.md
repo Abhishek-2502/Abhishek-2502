@@ -25,7 +25,7 @@
 
 - 👨‍💻 Portfolio: [https://abhishek-2502.github.io/Portfolio/](https://abhishek-2502.github.io/Portfolio/)
   
-- 🔭 I’m currently working as an Intern at [SpacECE](https://www.spacece.in/)
+- 🔭 I’m currently working as an Intern at [BMC Software](https://www.bmc.com/)
 
 - 🌱 I’m currently learning **Kubernetes**
 
