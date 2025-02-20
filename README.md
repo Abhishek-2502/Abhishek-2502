@@ -34,6 +34,7 @@
 <h3 align="left">Try it out !</h3>
 
 - [Github Followers Tracker](https://git-followers-tracker.vercel.app)
+- [MERN Chatbot](https://mern-chatbot-kappa.vercel.app/)
 
 <!-- SOCIAL MEDIA -->
 <h3 align="left">Connect with me :</h3>
