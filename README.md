@@ -80,9 +80,9 @@
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=maven,selenium" alt="My Skills">
-    <img src="https://files.codingninjas.in/article_images/servlet-interview-questions-1-1655563072.webp", width=55, height=50, alt="My Skills">
+    <img src="https://files.codingninjas.in/article_images/servlet-interview-questions-1-1655563072.webp", width=55, height=50, alt="Servlet">
     <img src="https://skillicons.dev/icons?i=hibernate,spring" alt="My Skills">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgu8cRVSRm96BF4FEJ4DA9IROZYI1wYR0RRA&s", width=50, height=50, alt="My Skills">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgu8cRVSRm96BF4FEJ4DA9IROZYI1wYR0RRA&s", width=50, height=50, alt="SpringBoot">
   </a>
 </div>
 
@@ -90,7 +90,7 @@
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle" alt="My Skills">
-    <img src="https://reactnative.dev/img/header_logo.svg", width=50, height=45, alt="My Skills">
+    <img src="https://reactnative.dev/img/header_logo.svg", width=50, height=45, alt="React Native">
   </a>
 </div>
 
@@ -120,7 +120,7 @@
 <h3 align="center">DB and Other Tools</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,idea,postman,nginx,figma,arduino" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,nginx,vscode,idea,figma,arduino" alt="My Skills">
   </a>
 </div>
 
