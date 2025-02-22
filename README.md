@@ -72,14 +72,14 @@
 <h3 align="center">Programming Languages</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python," alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" alt="My Skills">
   </a>
 </div>
 
 <h3 align="center">Java Development</h3>
 <div align="center">
   <a href="#">
-    <img src="https://files.codingninjas.in/article_images/servlet-interview-questions-1-1655563072.webp", width=55, height=50, alt="Servlet">
+    <img src="./icons/servlet_java_icon.png", width=50, height=48, alt="Servlet">
     <img src="https://skillicons.dev/icons?i=hibernate,spring" alt="My Skills">
     <img src="./icons/springboot_icon.png", width=50, height=48, alt="SpringBoot">
     <img src="https://skillicons.dev/icons?i=maven,selenium" alt="My Skills">
@@ -90,7 +90,6 @@
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle" alt="My Skills">
-    <img src="https://reactnative.dev/img/header_logo.svg", width=50, height=45, alt="React Native">
   </a>
 </div>
 
