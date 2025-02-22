@@ -79,9 +79,9 @@
 <h3 align="center">Java Development</h3>
 <div align="center">
   <a href="#">
-    <img src="./icons/servlet_icon_light.png", width=50, height=48, alt="Servlet" hspace="5">  
-    <img src="https://skillicons.dev/icons?i=hibernate,spring" alt="My Skills" hspace="5">
-    <img src="./icons/springboot_icon.png", width=50, height=48, alt="SpringBoot" hspace="5">
+    <img src="./icons/servlet_icon_light.png", width=50, height=48, alt="Servlet" hspace="3">  
+    <img src="https://skillicons.dev/icons?i=hibernate,spring" alt="My Skills" hspace="3">
+    <img src="./icons/springboot_icon.png", width=50, height=48, alt="SpringBoot" hspace="3">
     <img src="https://skillicons.dev/icons?i=maven,selenium" alt="My Skills">
   </a>
 </div>
