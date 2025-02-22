@@ -1,5 +1,5 @@
 <!-- BANNER -->
-<p align="center"><img align="center" alt="Banner" src="./Header2.png"></p>
+<p align="center"><img align="center" alt="Banner" src="./others/Header2.png"></p>
 
 
 <b><h1 align="center">SOFTWARE ENGINEER</h1></b>
@@ -9,7 +9,7 @@
 
 <!-- ANIMATED LINE -->
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /></h1></b> -->
-<p align="center"><img src="./animated_line.gif" width="100%" alt="animated line gif"/></p>
+<p align="center"><img src="./others/animated_line.gif" width="100%" alt="animated line gif"/></p>
 
 
 <!-- ANIMATED GIF -->
@@ -66,7 +66,7 @@
 
 <!-- ANIMATED LINE -->
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
-<p align="center"><img src="./animated_line.gif" width="100%" alt="animated line gif"/></p>
+<p align="center"><img src="./others/animated_line.gif" width="100%" alt="animated line gif"/></p>
 
 
 <h3 align="center">Programming Languages</h3>
@@ -138,7 +138,7 @@
 
 <!-- ANIMATED LINE -->
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
-<p align="center"><img src="./animated_line.gif" width="100%" alt="animated line gif"/></p>
+<p align="center"><img src="./others/animated_line.gif" width="100%" alt="animated line gif"/></p>
 
 <!-- GITHUB STATS -->
 <div align="center">
@@ -157,7 +157,7 @@
 </div>
 
 <!-- CONTRIBUTION SNAKE -->
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="/others/contributions.svg"></a>
 
 <!-- BOTTOM FLOWING ANIMATION -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
