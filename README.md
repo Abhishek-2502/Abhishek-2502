@@ -120,7 +120,7 @@
 <h3 align="center">DB and Other Tools</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,idea,postman,figma,arduino" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,idea,postman,nginx,figma,arduino" alt="My Skills">
   </a>
 </div>
 
