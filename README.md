@@ -79,7 +79,7 @@
 <h3 align="center">Java Development</h3>
 <div align="center">
   <a href="#">
-    <img src="./icons/servlet_java_icon.png", width=50, height=48, alt="Servlet">
+    <img src="./icons/servlet_icon.png", width=50, height=48, alt="Servlet">
     <img src="https://skillicons.dev/icons?i=hibernate,spring" alt="My Skills">
     <img src="./icons/springboot_icon.png", width=50, height=48, alt="SpringBoot">
     <img src="https://skillicons.dev/icons?i=maven,selenium" alt="My Skills">
