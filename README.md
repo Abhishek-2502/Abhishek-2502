@@ -76,11 +76,18 @@
   </a>
 </div>
 
+<h3 align="center">Java Development</h3>
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=maven,selenium,hibernate,spring" alt="My Skills">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgu8cRVSRm96BF4FEJ4DA9IROZYI1wYR0RRA&s", width=50, height=50, alt="My Skills">
+  </a>
+</div>
+
 <h3 align="center">Android Development</h3>
 <div align="center">
   <a href="#">
-<!--     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,html,css,js,react,tailwindcss,express,nodejs,bootstrap,figma,django,flask" alt="My Skills"> -->
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle" alt="My Skills">
     <img src="https://reactnative.dev/img/header_logo.svg", width=50, height=45, alt="My Skills">
   </a>
 </div>
@@ -88,9 +95,11 @@
 <h3 align="center">MERN Development</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,express,nodejs,bootstrap,figma" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,express,nodejs,bootstrap" alt="My Skills">
   </a>
 </div>
+
+
 
 <h3 align="center">Python Development</h3>
 <div align="center">
@@ -109,7 +118,7 @@
 <h3 align="center">DB and Other Tools</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,idea,postman,arduino" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,idea,postman,figma,arduino" alt="My Skills">
   </a>
 </div>
 
