@@ -81,7 +81,7 @@
   <a href="#">
     <img src="https://files.codingninjas.in/article_images/servlet-interview-questions-1-1655563072.webp", width=55, height=50, alt="Servlet">
     <img src="https://skillicons.dev/icons?i=hibernate,spring" alt="My Skills">
-    <img src="./icons/springboot_icon.png", width=50, height=50, alt="SpringBoot">
+    <img src="./icons/springboot_icon.png", width=60, height=60, alt="SpringBoot">
     <img src="https://skillicons.dev/icons?i=maven,selenium" alt="My Skills">
   </a>
 </div>
