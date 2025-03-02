@@ -112,7 +112,7 @@
 <h3 align="center">DevOps</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,jenkins,docker,aws" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,docker,jenkins,aws" alt="My Skills">
   </a>
 </div>
 
