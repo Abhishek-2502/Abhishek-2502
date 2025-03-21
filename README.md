@@ -46,14 +46,14 @@
 </p>
 
 
-
-
-<!-- EXPERIENCES -->
-<h3 align="left">Experiences :</h3>
 <!-- BUY ME A COFFE -->
 <a href="https://buymeacoffee.com/abhishek.rajput" target="_blank">
     <img  align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
 </a>
+
+
+<!-- EXPERIENCES -->
+<h3 align="left">Experiences :</h3>
 
 - SDE Intern at [BMC Software](https://www.bmc.com/) (Jan 2025 - Present)
 
