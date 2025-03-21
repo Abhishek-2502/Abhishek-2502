@@ -13,8 +13,8 @@
 
 
 <!-- ANIMATED GIF -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <!-- PROFILE VIEWS -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-2502&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-2502" /> </p>
@@ -46,8 +46,14 @@
 </p>
 
 
+
+
 <!-- EXPERIENCES -->
 <h3 align="left">Experiences :</h3>
+<!-- BUY ME A COFFE -->
+<a href="https://buymeacoffee.com/abhishek.rajput" target="_blank">
+    <img  align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
+</a>
 
 - SDE Intern at [BMC Software](https://www.bmc.com/) (Jan 2025 - Present)
 
