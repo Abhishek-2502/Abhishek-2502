@@ -1,5 +1,5 @@
 <!-- BANNER -->
-<p align="center"><img align="center" alt="Banner" src="./others/Header3.png"></p>
+<p align="center"><img align="center" alt="Banner" src="./others/Header1.png"></p>
 
 
 <b><h1 align="center">SOFTWARE ENGINEER</h1></b>
