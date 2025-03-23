@@ -38,12 +38,12 @@
 <!-- SOCIAL MEDIA -->
 <h3 align="left">Connect with me :</h3>
 
-<p align="left">
 <!-- BUY ME A COFFE -->
 <a href="https://buymeacoffee.com/abhishek.rajput" target="_blank">
     <img  align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
 </a>
-  
+
+<p align="left">
 <a href="https://linkedin.com/in/abhishek-rajput-6b8912258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/palak-rajput-069336264" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/abhishek250204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek250204" height="30" width="40" /></a> -->
 
