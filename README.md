@@ -111,7 +111,7 @@
 <h3 align="center">Python Development</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=django,flask,fastapi" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,django" alt="My Skills">
   </a>
 </div>
 
