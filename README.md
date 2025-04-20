@@ -118,14 +118,14 @@
 <h3 align="center">DevOps</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,docker,jenkins,aws" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,docker,jenkins,nginx,aws" alt="My Skills">
   </a>
 </div>
 
 <h3 align="center">DB and Other Tools</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,nginx,vscode,idea,vercel,figma,arduino" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,vscode,idea,vercel,figma,arduino" alt="My Skills">
   </a>
 </div>
 
