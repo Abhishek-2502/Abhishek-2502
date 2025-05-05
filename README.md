@@ -22,7 +22,7 @@
 <!-- ABOUT ME -->
 <h3 align="left">About me :</h3>
 
-- 👨‍💻 Portfolio: [https://abhishekrajput.me](https://abhishekrajput.me)
+- 👨‍💻 Portfolio: [abhishekrajput.me](https://abhishekrajput.me)
   
 - 🔭 I’m currently working as an Intern at [BMC Software](https://www.bmc.com/)
 
