@@ -26,7 +26,7 @@
   
 - 🔭 I’m currently working as an Intern at [BMC Software](https://www.bmc.com/)
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kubernetes and Terraform**
 
 - 📫 Reach me at **abhishek25022004@gmail.com**
 
