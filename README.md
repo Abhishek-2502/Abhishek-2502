@@ -55,11 +55,11 @@
 <!-- EXPERIENCES -->
 <h3 align="left">Experiences :</h3>
 
-- SDE Intern at [BMC Software](https://www.bmc.com/) (Jan 2025 - Present)
+- SDE Intern at [BMC Software](https://www.bmc.com/) (Jan 2025 - June 2025)
 
-- Android Developer Intern at [SpacECE](https://www.spacece.in/) (Dec 2024 - Present)
+- Android Developer Intern at [SpacECE](https://www.spacece.in/) (Dec 2024 - Feb 2025)
   
-- AI Research Intern at [SCAAI](https://www.scaai.edu.in/) (Jun 2024 - Present)
+- AI Research Intern at [SCAAI](https://www.scaai.edu.in/) (Jun 2024 - Jun 2025)
   
 - Android Developer Intern at [Alpinedge Solution](https://www.linkedin.com/company/alpinedge-solution-pvt-ltd/posts/?feedView=all) (Jul 2024 - Dec 2024)
   
