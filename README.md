@@ -32,6 +32,9 @@
 
 <h3 align="left">Try it out !</h3>
 
+> [!NOTE]
+> These projects are hosted on Render and may take around ~30-60 seconds to load. Thank you for your patience!
+ 
 - [Github Followers Tracker](https://git-followers-tracker.vercel.app)
 - [MERN Chatbot](https://mern-chatbot-kappa.vercel.app/)
 
@@ -78,7 +81,7 @@
 <h3 align="center">Programming Languages</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=5" alt="My Skills">
   </a>
 </div>
 
@@ -95,14 +98,14 @@
 <h3 align="center">Android Development</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle&perline=5" alt="My Skills">
   </a>
 </div>
 
 <h3 align="center">MERN Development</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,express,nodejs,bootstrap" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,express,nodejs,bootstrap&perline=4" alt="My Skills">
   </a>
 </div>
 
@@ -111,21 +114,21 @@
 <h3 align="center">Python Development</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=fastapi,flask,django" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,django&perline=5" alt="My Skills">
   </a>
 </div>
 
 <h3 align="center">DevOps</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=bash,linux,vim,git,github,docker,jenkins,ansible,terraform,nginx,aws" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=bash,linux,vim,git,github,docker,jenkins,ansible,terraform,nginx,aws,gcp&perline=5" alt="My Skills">
   </a>
 </div>
 
 <h3 align="center">DB and Other Tools</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,kafka,vscode,idea,vercel,figma,arduino" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,kafka,vscode,idea,vercel,figma,arduino&perline=5" alt="My Skills">
   </a>
 </div>
 
