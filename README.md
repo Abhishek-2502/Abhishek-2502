@@ -24,7 +24,7 @@
 
 - 👨‍💻 Portfolio: [abhishekrajput.me](https://abhishekrajput.me)
   
-- 🔭 I’m currently working as an Intern at [BMC Software](https://www.bmc.com/)
+- 🔭 Upcoming Product Developer Intern at [BMC Software](https://www.bmc.com/)
 
 - 🌱 I’m currently learning **Kubernetes**
 
