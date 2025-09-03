@@ -36,7 +36,7 @@
 > Some of these projects are hosted on Render and may take around ~30-60 seconds to load. Thank you for your patience!
  
 - [Github Followers Tracker](https://git-followers-tracker.vercel.app)
-- [Git Share][https://gitshare.onrender.com/]
+- [Git Share](https://gitshare.onrender.com/)
 - [MERN Chatbot](https://mern-chatbot-kappa.vercel.app/)
 
 <!-- SOCIAL MEDIA -->
