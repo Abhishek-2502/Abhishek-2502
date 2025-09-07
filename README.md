@@ -60,7 +60,7 @@
 <!-- EXPERIENCES -->
 <h3 align="left">Experiences :</h3>
 
-- SDE Intern at [BMC Software](https://www.bmc.com/) (Jan 2025 - June 2025)
+- Product Developer Intern at [BMC Software](https://www.bmc.com/) (Jan 2025 - June 2025)
 
 - Android Developer Intern at [SpacECE](https://www.spacece.in/) (Dec 2024 - Feb 2025)
   
