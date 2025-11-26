@@ -79,7 +79,7 @@
 
 | Institution | Degree | Year | 
 |-------------|--------|------|
-| Symbiosis International University, Pune | B.Tech, Computer Science and Engineering | 2022 – 2026 |
+| Symbiosis International University, Pune | B.Tech, Computer Science and Engineering | 2022 - 2026 |
 | Atomic Energy Central School | Higher Secondary Education | 2019 - 2022 | 
 
 
