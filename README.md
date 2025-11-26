@@ -61,19 +61,22 @@
 <!-- EXPERIENCES -->
 <h3 align="left">Experiences :</h3>
 
-- Product Developer Intern at [BMC Software](https://www.bmc.com/) (Jan 2025 - June 2025)
+| Role | Company | Year |
+|-------------|--------|----|
+| Product Developer Intern | [BMC Software](https://www.bmc.com/) | Jan 2025 - June 2025 |
+| Project Developer Intern & Android Developer Intern | [SpacECE](https://www.spacece.in/) | Jan 2024 - Feb 2025 & Dec 2024 - Jan 2025 |
+| AI Research Intern | [SCAAI](https://www.scaai.edu.in/)  | Jun 2024 - Jun 2025 |
+| Software Developer Intern & Android Developer Intern | [Alpinedge Solution](https://www.linkedin.com/company/alpinedge-solution-pvt-ltd/posts/?feedView=all) | Sep 2024 - Dec 2024 & Jul 2024 - Aug 2024 |
+| Full Stack Web Developer Intern | [Project Human City](https://www.projecthumancity.com/) | Jun 2024 - Aug 2024 |
+| Full Stack Web Developer Intern | [Meta Craftlab](https://craftlab.ai/)  | Jun 2024 - Jul 2024 |
+| Networking Intern | [Cisco Networking Academy](https://www.netacad.com/) | May 2024 - Jul 2024 |
 
-- Android Developer Intern at [SpacECE](https://www.spacece.in/) (Dec 2024 - Feb 2025)
-  
-- AI Research Intern at [SCAAI](https://www.scaai.edu.in/) (Jun 2024 - Jun 2025)
-  
-- Android Developer Intern at [Alpinedge Solution](https://www.linkedin.com/company/alpinedge-solution-pvt-ltd/posts/?feedView=all) (Jul 2024 - Dec 2024)
-  
-- Web Developer Intern at [Project Human City](https://www.projecthumancity.com/) (Jun 2024 - Aug 2024)
-  
-- Full Stack Web Developer Intern at [Meta Craftlab](https://craftlab.ai/) (Jun 2024 - Jul 2024)
-  
-- Networking Intern at [Cisco Networking Academy](https://www.netacad.com/) (May 2024 - Jul 2024)
+<h3 align="left">Academics :</h3>
+
+| Institution | Degree | Year | 
+|-------------|--------|------|
+| Symbiosis International University, Pune | B.Tech, Computer Science and Engineering | 2022 – 2026 |
+| Atomic Energy Central School | Higher Secondary Education | 2019 - 2022 | 
 
 
 <!-- ANIMATED LINE -->
