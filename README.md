@@ -34,12 +34,16 @@
 
 > [!NOTE]
 > Some of these projects are hosted on Render and may take around ~30-60 seconds to load. Thank you for your patience!
- 
-- [Github Followers Tracker (Vercel)](https://git-followers-tracker.vercel.app)
-- [CalcHub (Netlify)](https://calc-hub-abhi.netlify.app/)
-- [Git Share (Render)](https://gitshare.onrender.com/)
-- [MERN Chatbot (Render)](https://mern-chatbot-kappa.vercel.app/)
-- [Shortify- URL Shortener (Render)](https://url-shortener-beige-phi.vercel.app/)
+
+ | Project | Hosting Platform |
+|-------------|-------------|  
+| [Github Followers Tracker](https://git-followers-tracker.vercel.app) | Vercel | 
+| [CalcHub](https://calc-hub-abhi.netlify.app/) | Netify |
+| [Git Share](https://gitshare.onrender.com/) | Render |
+| [Shortify- URL Shortener](https://url-shortener-beige-phi.vercel.app/) | Render & Vercel |
+| [Multi-QR Encoder Decoder](https://multi-qr-encoder-decoder.onrender.com) | Render |
+| [MERN Chatbot](https://mern-chatbot-kappa.vercel.app/) | Render & Vercel |
+
 
 <!-- SOCIAL MEDIA -->
 <h3 align="left">Connect with me :</h3>
@@ -64,9 +68,9 @@
 | Role | Company | Year |
 |-------------|--------|----|
 | Product Developer Intern | [BMC Software](https://www.bmc.com/) | Jan 2025 - June 2025 |
-| Project Developer Intern & Android Developer Intern | [SpacECE](https://www.spacece.in/) | Jan 2024 - Feb 2025 & Dec 2024 - Jan 2025 |
+| Project Developer Intern & Android Developer Intern | [SpacECE](https://www.spacece.in/) | Jan 2024 - Jan 2025 |
 | AI Research Intern | [SCAAI](https://www.scaai.edu.in/)  | Jun 2024 - Jun 2025 |
-| Software Developer Intern & Android Developer Intern | [Alpinedge Solution](https://www.linkedin.com/company/alpinedge-solution-pvt-ltd/posts/?feedView=all) | Sep 2024 - Dec 2024 & Jul 2024 - Aug 2024 |
+| Software Developer Intern & Android Developer Intern | [Alpinedge Solution](https://www.linkedin.com/company/alpinedge-solution-pvt-ltd/posts/?feedView=all) | Sep 2024 - Aug 2024 |
 | Full Stack Web Developer Intern | [Project Human City](https://www.projecthumancity.com/) | Jun 2024 - Aug 2024 |
 | Full Stack Web Developer Intern | [Meta Craftlab](https://craftlab.ai/)  | Jun 2024 - Jul 2024 |
 | Networking Intern | [Cisco Networking Academy](https://www.netacad.com/) | May 2024 - Jul 2024 |
