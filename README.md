@@ -24,7 +24,7 @@
 
 - 👨‍💻 Portfolio: [abhishekrajput.me](https://abhishekrajput.me)
   
-- 🔭 Upcoming Product Developer at [BMC Software](https://www.bmc.com/)
+- 🔭 Associate Product Developer at [BMC Software](https://www.bmc.com/)
 
 - 🌱 I’m currently learning **Kubernetes**
 
