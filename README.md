@@ -9,7 +9,7 @@
 
 <!-- ANIMATED LINE -->
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /></h1></b> -->
-<p align="center"><img src="./others/animated_line.gif" width="100%" alt="animated line gif"/></p>
+<!-- <p align="center"><img src="./others/animated_line.gif" width="100%" alt="animated line gif"/></p> -->
 
 
 <!-- ANIMATED GIF -->
