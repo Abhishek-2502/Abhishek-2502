@@ -40,9 +40,9 @@
 | [Github Followers Tracker](https://git-followers-tracker.vercel.app) | Vercel | 
 | [CalcHub](https://calc-hub-abhi.netlify.app/) | Netify |
 | [Git Share](https://gitshare.onrender.com/) | Render |
-| [Shortify- URL Shortener](https://url-shortener-beige-phi.vercel.app/) | Render & Vercel |
+| [Shortify- URL Shortener](https://url-shortener-beige-phi.vercel.app/) | Render, Vercel |
 | [Multi-QR Encoder Decoder](https://multi-qr-encoder-decoder.onrender.com) | Render |
-| [MERN Chatbot](https://mern-chatbot-kappa.vercel.app/) | Render & Vercel |
+| [MERN Chatbot](https://mern-chatbot-kappa.vercel.app/) | Render, Vercel |
 
 
 <!-- SOCIAL MEDIA -->
