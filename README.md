@@ -26,6 +26,8 @@
   
 - 🔭 Associate Product Developer at [BMC Software](https://www.bmc.com/)
 
+- 🔗 Resume: [Google Drive Link](https://drive.google.com/drive/folders/1O0S098cwZgLoihe5RTv_5qNV7xrXj6qT)
+
 - 🌱 I’m currently learning **Kubernetes**
 
 - 📫 Reach me at **abhishek25022004@gmail.com**
