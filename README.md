@@ -80,7 +80,6 @@
 | Product Developer Intern | [BMC Software](https://www.bmc.com/) | Jan 2026 | June 2026 |
 | Product Developer Intern | [BMC Software](https://www.bmc.com/) | Jan 2025 | June 2025 |
 | Project Developer Intern & Android Developer Intern | [SpacECE](https://www.spacece.in/) | Dec 2024 | Feb 2025 |
-| AI Research Intern | [SCAAI](https://www.scaai.edu.in/)  | Jun 2024 | Jun 2025 |
 | Software Developer Intern & Android Developer Intern | [Alpinedge Solution](https://www.linkedin.com/company/alpinedge-solution-pvt-ltd/posts/?feedView=all) | Jul 2024 | Dec 2024 |
 | Full Stack Web Developer Intern | [Project Human City](https://www.projecthumancity.com/) | Jun 2024 | Aug 2024 |
 | Full Stack Web Developer Intern | [Meta Craftlab](https://craftlab.ai/)  | Jun 2024 | Jul 2024 |
