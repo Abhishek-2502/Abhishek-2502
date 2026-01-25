@@ -24,7 +24,7 @@
 
 - 👨‍💻 Portfolio: [abhishekrajput.me](https://abhishekrajput.me)
   
-- 🔭 Associate Product Developer at [BMC Software](https://www.bmc.com/)
+- 🔭 Associate Product Developer at [BMC Helix](https://www.helixops.ai/)
 
 - 🔗 Resume: [Google Drive Link](https://drive.google.com/drive/folders/1O0S098cwZgLoihe5RTv_5qNV7xrXj6qT)
 
