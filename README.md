@@ -177,9 +177,9 @@
     <img src="https://gh-readme-profile.vercel.app/api?username=Abhishek-2502&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="Abhishek's GitHub stats" height="142px"/>
   </a>
 
-  <a href="https://github.com/Abhishek-2502" target="_blank">
-    <img alt="Abhishek's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Abhishek-2502&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
-  </a>
+<!-- <a href="https://github.com/Abhishek-2502" target="_blank"> -->
+<!-- <img alt="Abhishek's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Abhishek-2502&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/> -->
+<!-- </a> -->
 
 </p>
 
