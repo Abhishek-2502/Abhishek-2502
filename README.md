@@ -141,7 +141,7 @@
 <h3 align="center">DevOps</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=bash,linux,vim,git,github,docker,jenkins,kubernetes,prometheus,grafana,ansible,terraform,nginx,aws,gcp&perline=6" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=bash,linux,vim,git,github,docker,jenkins,kubernetes,prometheus,grafana,ansible,terraform,nginx,aws,gcp&perline=5" alt="My Skills">
   </a>
 </div>
 
