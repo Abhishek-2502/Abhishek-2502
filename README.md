@@ -169,20 +169,37 @@
 <p align="center"><img src="./others/animated_line.gif" width="100%" alt="animated line gif"/></p>
 
 <!-- GITHUB STATS -->
-<div align="center">
-  <a href="#">
-    <img src="https://bad-apple-github-readme.vercel.app/api?username=Abhishek-2502&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt=" ">
-  </a>
-</div>
+  
+<p align="center">
 
-<!-- LANGUAGES USED -->
-<!-- STREAK -->
-<div align="center">
-  <a href="#">
-    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Abhishek-2502&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt=" ">
-    <img src="https://streak-stats.demolab.com/?user=Abhishek-2502&count_private=true&theme=blue-green&title_color=00b3ff" alt="">
+  <!-- Row 1: Main Stats + Alternate Stats -->
+  <a href="https://github.com/Abhishek-2502" target="_blank" style="margin-right:16px;">
+    <img src="https://gh-readme-profile.vercel.app/api?username=Abhishek-2502&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="Abhishek's GitHub stats" height="142px"/>
   </a>
-</div>
+
+  <a href="https://github.com/Abhishek-2502" target="_blank">
+    <img alt="Abhishek's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Abhishek-2502&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+  </a>
+
+</p>
+
+<p align="center" style="margin-top:16px;">
+
+  <!-- Row 2: Streak Stats + Top Languages -->
+  <a href="https://github.com/Abhishek-2502" target="_blank" style="margin-right:16px;">
+      <img title="Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhishek-2502&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
+  </a>
+
+  <a href="https://github.com/Abhishek-2502" target="_blank">
+    <img 
+      alt="Abhishek's Top Languages" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-2502&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" 
+      height="162px"
+    />
+  </a>
+
+</p>
+
 
 <!-- CONTRIBUTION SNAKE -->
 <a href=#><img src="/others/contributions.svg"></a>
