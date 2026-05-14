@@ -22,7 +22,7 @@
 <!-- ABOUT ME -->
 <h3 align="left">About me :</h3>
 
-- 👨‍💻 Portfolio: [abhishekrajput.me](https://abhishekrajput.me)
+- 👨‍💻 Portfolio: [abhishek-2502.github.io/Portfolio/](https://abhishek-2502.github.io/Portfolio/)
   
 - 🔭 Associate Product Developer at [BMC Helix](https://www.helixops.ai/)
 
