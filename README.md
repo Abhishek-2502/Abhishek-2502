@@ -77,7 +77,7 @@
 
 | Role | Company | Start | End |
 |-------------|--------|----|----|
-| Product Developer Intern | [BMC Helix](https://www.helixops.ai/) | Jan 2026 | June 2026 |
+| Product Developer Intern | [BMC Helix](https://www.helixops.ai/) | Jan 2026 | July 2026 |
 | Product Developer Intern | [BMC Software](https://www.bmc.com/) | Jan 2025 | June 2025 |
 | Project Developer Intern & Android Developer Intern | [SpacECE](https://www.spacece.in/) | Dec 2024 | Jan 2025 |
 | Software Developer Intern & Android Developer Intern | [Alpinedge Solution](https://www.linkedin.com/company/alpinedge-solution-pvt-ltd/posts/?feedView=all) | Jul 2024 | Dec 2024 |
