@@ -8,8 +8,8 @@
 <!-- <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> -->
 
 <!-- ANIMATED LINE -->
-<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /></h1></b> -->
-<!-- <p align="center"><img src="./others/animated_line.gif" width="100%" alt="animated line gif"/></p> -->
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
+<p align="center"><img src="./others/animated_line.gif" width="100%" alt="animated line gif"/></p>
 
 <!-- PROFILE VIEWS -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-2502&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-2502" /> </p>
@@ -95,17 +95,29 @@
 
 <!-- ANIMATED LINE -->
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
-<p align="center"><img src="./others/animated_line.gif" width="100%" alt="animated line gif"/></p>
+<!-- <p align="center"><img src="./others/animated_line.gif" width="100%" alt="animated line gif"/></p> -->
+
+<h3 align="left">Skills :</h3>
+
+| Category | Technologies |
+|-------------|-------------|
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=4" height="40"> |
+| **Java Development** | <img src="./icons/servlet_icon_light.png" width="40" alt="Servlet"> <img src="https://skillicons.dev/icons?i=hibernate,spring" height="40"> <img src="./icons/springboot_icon.png" width="40" alt="Spring Boot"> <img src="https://skillicons.dev/icons?i=maven,selenium" height="40"> |
+| **Android Development** | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle&perline=3" height="40"> |
+| **MERN Development** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,express,nodejs,bootstrap&perline=8" height="40"> |
+| **Python Development** | <img src="https://skillicons.dev/icons?i=fastapi,flask,django&perline=3" height="40"> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=bash,linux,vim,git,github,docker,jenkins,kubernetes,prometheus,grafana,ansible,terraform,nginx,aws,gcp&perline=15" height="40"> |
+| **Databases & Tools** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,postman,kafka,vscode,idea,vercel,figma,arduino&perline=10" height="40"> |
 
 
-<h3 align="center">Programming Languages</h3>
+<!-- <h3 align="center">Programming Languages</h3>
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=5" alt="My Skills">
   </a>
-</div>
+</div> -->
 
-<h3 align="center">Java Development</h3>
+<!-- <h3 align="center">Java Development</h3>
 <div align="center">
   <a href="#">
     <img src="./icons/servlet_icon_light.png", width=50, height=48, alt="Servlet" hspace="3">  
@@ -113,44 +125,44 @@
     <img src="./icons/springboot_icon.png", width=50, height=48, alt="SpringBoot" hspace="3">
     <img src="https://skillicons.dev/icons?i=maven,selenium" alt="My Skills">
   </a>
-</div>
+</div> -->
 
-<h3 align="center">Android Development</h3>
+<!-- <h3 align="center">Android Development</h3>
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle&perline=5" alt="My Skills">
   </a>
-</div>
+</div> -->
 
-<h3 align="center">MERN Development</h3>
+<!-- <h3 align="center">MERN Development</h3>
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,express,nodejs,bootstrap&perline=4" alt="My Skills">
   </a>
-</div>
+</div> -->
 
 
 
-<h3 align="center">Python Development</h3>
+<!-- <h3 align="center">Python Development</h3>
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=fastapi,flask,django&perline=5" alt="My Skills">
   </a>
-</div>
+</div> -->
 
-<h3 align="center">DevOps</h3>
+<!-- <h3 align="center">DevOps</h3>
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=bash,linux,vim,git,github,docker,jenkins,kubernetes,prometheus,grafana,ansible,terraform,nginx,aws,gcp&perline=5" alt="My Skills">
   </a>
-</div>
+</div> -->
 
-<h3 align="center">DB and Other Tools</h3>
+<!-- <h3 align="center">DB and Other Tools</h3>
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,postman,kafka,vscode,idea,vercel,figma,arduino&perline=5" alt="My Skills">
   </a>
-</div>
+</div> -->
 
 <!-- WHITE THEME STATS-->
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-2502&show_icons=true&locale=en" alt="abhishek-2502" /></p> -->
@@ -161,12 +173,7 @@
  
 
 <!-- ANIMATED ROCKET -->
-<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
-
-
-<!-- ANIMATED LINE -->
-<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
-<p align="center"><img src="./others/animated_line.gif" width="100%" alt="animated line gif"/></p>
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats : 
 
 <!-- GITHUB STATS -->
   
@@ -201,8 +208,13 @@
 </p>
 
 
+<!-- ANIMATED LINE -->
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
+<p align="center"><img src="./others/animated_line.gif" width="100%" alt="animated line gif"/></p>
+
+
 <!-- CONTRIBUTION SNAKE -->
-<a href=#><img src="/others/contributions.svg"></a>
+<p align="center"><img src="/others/contributions.svg"></p>
 
 <!-- BOTTOM FLOWING ANIMATION -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
