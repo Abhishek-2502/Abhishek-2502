@@ -14,7 +14,7 @@
 
 <!-- ANIMATED GIF -->
 <!-- <img align="right" alt="Coding" height="250" width="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">  -->
-<p align="right"><img align="right" alt="Banner" height="350" width="400" src="./others/coderman.gif"></p>
+<p align="right"><img align="right" alt="Banner" height="400" width="400" src="./others/coderman.gif"></p>
 
 <!-- PROFILE VIEWS -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-2502&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-2502" /> </p>
