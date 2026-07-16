@@ -2,6 +2,10 @@
 <p align="center"><img align="center" alt="Banner" src="./others/Header0.png"></p>
 
 
+<!-- ANIMATED LINE -->
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
+<p align="center"><img src="./others/animated_line.gif" width="100%" alt="animated line gif"/></p>
+
 <b><h1 align="center">SOFTWARE ENGINEER</h1></b>
 
 <!-- ANIMATED BYE -->
