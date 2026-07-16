@@ -10,10 +10,6 @@
 <!-- ANIMATED BYE -->
 <!-- <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> -->
 
-<!-- ANIMATED LINE -->
-<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
-<p align="center"><img src="./others/animated_line.gif" width="100%" alt="animated line gif"/></p>
-
 <!-- PROFILE VIEWS -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-2502&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-2502" /> </p>
 
