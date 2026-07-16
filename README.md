@@ -98,9 +98,9 @@
 
 <h3 align="left">Skills :</h3>
 
-| Category | Technologies |
+| Category | Tech Stack |
 |-------------|-------------|
-| **Programming Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=4" height="40"> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=4" height="40"> |
 | **Java Development** | <img src="./icons/servlet_icon_light.png" width="40" alt="Servlet"> <img src="https://skillicons.dev/icons?i=hibernate,spring" height="40"> <img src="./icons/springboot_icon.png" width="40" alt="Spring Boot"> <img src="https://skillicons.dev/icons?i=maven,selenium" height="40"> |
 | **Android Development** | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle&perline=3" height="40"> |
 | **MERN Development** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,express,nodejs,bootstrap&perline=8" height="40"> |
